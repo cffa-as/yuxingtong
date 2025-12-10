@@ -1,0 +1,7 @@
+{
+  "name": "雨行 - 智能雨天出行助手",
+  "description": "一站式雨天出行助手，结合实时降雨雷达与AI，提供最少淋雨路线、避雨点推荐及个性化安全提醒。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
